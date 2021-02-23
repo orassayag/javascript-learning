@@ -1,6 +1,6 @@
-# TypeScript Learning
+# JavaScript Learning
 
-Built in October 2018. A tutorial workflow of 'Understanding TypeScript' by Maximilian Schwarzmüller.
+Built in October 2018. A tutorial workflow of 'The Complete JavaScript Course 2021: From Zero to Expert!' course by Jonas Schmedtmann.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Clone the application to your computer.
 Steps to view the solution:
 1. Open server application on IDE (I use VSCode).
 2. Terminal: npm i
-3. Terminal: npm start
+3. In terminal: npm start
 
 READ THE FOLLOWING SETTINGS BEFORE YOU BEGIN:
 
