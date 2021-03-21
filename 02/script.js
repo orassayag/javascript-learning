@@ -108,7 +108,7 @@ job = prompt('What does John do?');
 
 switch (job) {
     case 'teacher':
-        console.log('John teachs kids.');
+        console.log('John teaches kids.');
         break;
     case 'driver':
         console.log('John drives a cab in Lisbon.');
@@ -259,7 +259,7 @@ console.log(jane); */
     calculateAge: function () {
         return 2016 - this.yearOfBirth;
     }
-} 
+}
 
 //console.log(john.calculateAge(1970));
 console.log(john.calculateAge());
@@ -305,7 +305,7 @@ console.log(mike); */
 var names = ['John', 'Jane', 'Mary', 'Mark', 'Bob'];
 
 
-/* 
+/*
 for (var i = 0; i < 10; i++) {
     //console.log(i);
 }

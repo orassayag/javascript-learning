@@ -51,9 +51,9 @@ var jane = Object.create(personProto, {
 
 
 
-// Premitives vs objects
+// Primitives vs objects
 
-// Premitives
+// Primitives
 
 /* var a = 23;
 var b = a;
@@ -190,11 +190,11 @@ game();
 
 var retirementUS = retirement(66);
 var retirementGermany = retirement(65);
-var retirementIcland = retirement(67);
+var retirementIceland = retirement(67);
 
 retirementGermany(1990);
 retirementUS(1990);
-retirementIcland(1990);
+retirementIceland(1990);
 
 // retirement(66)(1990);
 

@@ -98,7 +98,7 @@ console.log(n.includes('ohz'));
 console.log(`${firstName} `.repeat(5)); */
 
 // Lecture: Arrow functions
-/* 
+/*
 const years = [1990, 1965, 1982, 1937];
 
 // ES5
@@ -621,7 +621,7 @@ var getCountTreesNames = function getCountTreesNames(treesCount) {
 };
 
 var getStreetDetails = function getStreetDetails() {
-    var totalLength = 0;var averageLength = 0;
+    var totalLength = 0; var averageLength = 0;
 
     for (var _len3 = arguments.length, streets = Array(_len3), _key3 = 0; _key3 < _len3; _key3++) {
         streets[_key3] = arguments[_key3];

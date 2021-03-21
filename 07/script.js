@@ -88,7 +88,7 @@ console.log(n.includes('ohz'));
 console.log(`${firstName} `.repeat(5)); */
 
 // Lecture: Arrow functions
-/* 
+/*
 const years = [1990, 1965, 1982, 1937];
 
 // ES5
