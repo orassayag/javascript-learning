@@ -7,13 +7,13 @@ Built in October 2018. A tutorial workflow of 'The Complete JavaScript Course 20
 Clone the application to your computer.
 Steps to view the solution:
 1. Open server application on IDE (I use VSCode).
-2. Terminal: npm i
+2. In the terminal: npm i
 3. In the terminal: npm start
 
 READ THE FOLLOWING SETTINGS BEFORE YOU BEGIN:
 
 -Instructions & How to use:
-In terminal: npm start
+In the terminal: npm start
 
 Happy testing! :)
 
@@ -39,7 +39,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * Or Assayag <orassayag@gmail.com>
 * GitHub: https://github.com/orassayag
 * StackOverFlow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
-* LinkedIn: https://il.linkedin.com/in/orassayag
+* LinkedIn: https://linkedin.com/in/orassayag
 
 ## License
 
