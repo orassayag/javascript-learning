@@ -1,15 +1,36 @@
 {
   "name": "forkify",
   "version": "1.0.0",
-  "description": "forkify project",
+  "description": "Recipe search and management application with 1M+ recipes, shopping list, and favorites - built with modern JavaScript, Webpack, and MVC architecture",
   "main": "index.js",
+  "keywords": [
+    "recipe",
+    "food",
+    "cooking",
+    "search",
+    "javascript",
+    "webpack",
+    "babel",
+    "mvc",
+    "es6",
+    "shopping-list",
+    "favorites"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orassayag/javascript-learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/orassayag/javascript-learning/issues"
+  },
+  "homepage": "https://github.com/orassayag/javascript-learning#readme",
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open"
   },
-  "author": "Or Assayag",
-  "license": "ISC",
+  "author": "Or Assayag <orassayag@gmail.com> (https://github.com/orassayag)",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
